@@ -1,3 +1,5 @@
+// Esse projeto foi feito seguindo o tutorial "Build an Expense Tracker | React Hooks & Context API" de Traversy Media no YouTube.
+
 import './App.css';
 import Header from './components/Header';
 import Balance from './components/Balance';
